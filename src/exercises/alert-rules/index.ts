@@ -1,0 +1,1 @@
+export { AlertRulesPage } from './AlertRulesPage';
